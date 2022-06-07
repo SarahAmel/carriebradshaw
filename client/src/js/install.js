@@ -12,7 +12,7 @@ window.addEventListener('beforeinstallprompt', (event) => {
 
     // Remove the hidden class from the button.
     butInstall.classList.toggle('hidden', false);
-  });
+});
 
 
 

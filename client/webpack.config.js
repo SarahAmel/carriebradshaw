@@ -29,12 +29,12 @@ module.exports = () => {
         swSrc: './src-sw.js',
         swDest: 'src-sw.js',
       }),
-      / Creates a manifest.json file.
+      // / Creates a manifest.json file.
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
         name: 'J.A.T.E',
-        short_name: 'JATE',
+        short_name: 'J.A.T.E',
         description: 'A text editor tutorial!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
