@@ -33,8 +33,6 @@ localhost 3000
 
 [Repo link](https://github.com/SarahAmel/carriebradshaw)
 
-[Live link](https://sarahamel.github.io/sarahs-portfolio/)
-
 
 [Linkedin Link](https://www.linkedin.com/in/sarah-attar-477312235/)
 
