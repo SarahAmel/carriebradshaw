@@ -48,8 +48,10 @@ Email: sarahattar76@gmail.com
 # References
 The play back zoom videos from Unit helped immensely.
 
-The staff within the UCF bootcamp helped me tremendously as well my amazing classmates.
+The staff within the UCF bootcamp helped me tremendously as well as my amazing classmates.
 
 I am greatly appreciative of all the knowlegeable Tutors available and TA's who helped after or before class.
 
 Thank you for all the support!!
+
+shoutout to Discord you are as loyal as my dog... hahaha... heck yeah!!!
